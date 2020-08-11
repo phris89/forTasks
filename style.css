@@ -1,0 +1,13 @@
+#kursValut{
+    width: 100%;
+}
+#kursValut th{
+    background-color: #dadada;
+}
+#kursValut td, #kursValut th{
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+.nameOfColumns {
+    cursor: pointer;
+}
